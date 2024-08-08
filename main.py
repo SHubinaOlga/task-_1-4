@@ -20,6 +20,6 @@ print(name[-3])
 
 print(float(name)*10)
 
-print(int(1234.56))
+print(int(1234.56)%10)
 print(1234%10)
 
